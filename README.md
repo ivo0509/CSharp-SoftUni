@@ -1,4 +1,4 @@
-# CSharp-QA
+# CSharp-SoftUni
 This repo is for all C# exercises at SoftUni courses
 
 ## :white_check_mark: Entity-Framework-Core-February-2023 - [Certificated](https://softuni.bg/certificates/details/165003/aa41189a) :heavy_check_mark:
